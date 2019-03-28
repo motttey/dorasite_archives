@@ -26,6 +26,26 @@
 * オレンジバックのドラえもん同盟: http://www.geocities.co.jp/AnimeComic-Name/6872/
 * ドラえもんでーたるーむ: http://www.geocities.co.jp/AnimeComic-Pen/7885/
 * ドラえもんのアイコン部屋: http://www.geocities.co.jp/AnimeComic-Name/6884/
+* DJ FBI'sPAGE!!: http://www.geocities.co.jp/MusicStar-Keyboard/6189/
+* TS NETWORK: http://www.geocities.co.jp/Playtown-Darts/1368/
+* ゲーム&趣味のページ: http://www.geocities.co.jp/HeartLand-Renge/4658/
+* クマラのファイル集: http://www.geocities.co.jp/Foodpia/8833/
+* ＱＵＡＴＲＯ－ＮＯＺＡ: http://www.geocities.co.jp/Bookend-Ryunosuke/9264/doraria/
+* THE END OF DORAEMON: http://www.geocities.co.jp/Playtown/6364/story/contents.htm
+* ドラえもんの真実。。。: http://www.geocities.co.jp/HeartLand-Hanamizuki/8402/dora.html
+* 嗚呼ドラえもん: http://www.geocities.co.jp/MotorCity-Circuit/9237/dora.html
+* ＧＧＧ奈良支部ドラえもん課: http://www.geocities.co.jp/Playtown-Domino/6517/
+* あっ、ドラちゃん・・・: http://www.geocities.co.jp/Milkyway-Aquarius/3307/
+* ドラえもん: http://www.geocities.co.jp/Milkyway-Cassiopeia/2264/DORA_profile.html
+* 医学的ドラえもんのコ～ナ～: http://www.geocities.co.jp/Playtown-Darts/2751/midi.htm
+* 徒然ドラえもん: http://www.geocities.co.jp/AnimeComic-Pastel/9998/
+* 身代わりプログラム: http://www.geocities.co.jp/SiliconValley-PaloAlto/2911/
+* 黒いドラえもん: http://www.geocities.co.jp/MotorCity-Pit/6137/hanasi/kurodora.html
+* 一撃必殺: http://www.geocities.co.jp/AnimeComic-Brush/1147/
+* 恐怖のドラえもんコーナー: http://www.geocities.co.jp/AnimeComic-Tone/7988/doraemon.html
+* イヌイチ! Web: http://www.geocities.co.jp/AnimeComic-Cell/6854/
+* アンタッチャブル図書館: http://www.geocities.co.jp/Bookend-Yasunari/3923/
+* のび太と　うたわれるもの: http://www.geocities.co.jp/SiliconValley-Cupertino/9698/dorauta_top.htm
 
 #### www.geocities.jp
 
@@ -43,8 +63,20 @@
 * 忍の保存庫: http://www.geocities.jp/makidontstop2/
 * 問題チャレンジ！: http://www.geocities.jp/challenge_test/
 * ドラえもんの聖域: http://www.geocities.jp/qjnks997/doraemonnnoseiiki/doraemonnnosiiki.html
+* 1967年のパーマン: http://www.geocities.jp/perman1967/
+* さちかぜ: http://www.geocities.jp/shiverle/
+* 鉄なペンギンのお部屋: http://www.geocities.jp/ef_65_535/
+* DORA WORLD: http://www.geocities.jp/hiro_world2/dora_frame.htm
+* MANGA世界戦略: http://www.geocities.jp/manga_in_the_world/
+* ドラマニア: http://www.geocities.jp/corelijhon/
+* ドラえもんファンクラブ: http://www.geocities.jp/kn70103/doraemon.html
+* ゲームぬいぐるみ扉: http://www.geocities.jp/hyakkiufo/
+* 四日亭: http://www.geocities.jp/yokkatei/
 
 #### anime.geocities.jp
 
 * ドラえもん入門: http://anime.geocities.jp/smileweb_net/
 * ドラ空 2011: http://anime.geocities.jp/shota0531777fujisaki/
+
+#### sky.geocities.jp
+* ネタニヤフ首相って誰？: http://2nd.geocities.jp/losgringos_triplea/
