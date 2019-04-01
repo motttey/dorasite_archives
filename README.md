@@ -1,5 +1,5 @@
 # dorasite_archives
-消えゆくサイト保存のために
+消えゆくサイト保存のために: タイトルに対応するサイトはローカルに階層ごと保存済みです
 
 ### 保存済みサイト一覧
 
@@ -46,6 +46,7 @@
 * イヌイチ! Web: http://www.geocities.co.jp/AnimeComic-Cell/6854/
 * アンタッチャブル図書館: http://www.geocities.co.jp/Bookend-Yasunari/3923/
 * のび太と　うたわれるもの: http://www.geocities.co.jp/SiliconValley-Cupertino/9698/dorauta_top.htm
+* テーマは仁義!: http://www.geocities.co.jp/Bookend-Hemingway/7080/
 
 #### www.geocities.jp
 
@@ -78,5 +79,8 @@
 * ドラえもん入門: http://anime.geocities.jp/smileweb_net/
 * ドラ空 2011: http://anime.geocities.jp/shota0531777fujisaki/
 
-#### sky.geocities.jp
+#### 2nd.geocities.jp
 * ネタニヤフ首相って誰？: http://2nd.geocities.jp/losgringos_triplea/
+
+#### sky.geocities.jp/
+* えっ: http://sky.geocities.jp/motttey1234/
