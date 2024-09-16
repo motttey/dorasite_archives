@@ -1,9 +1,17 @@
 # dorasite_archives
 消えゆくサイト保存のために: タイトルに対応するサイトはローカルに階層ごと保存済みです
 
-### 保存済みサイト一覧
 
-#### www.geocities.co.jp
+## 保存方法
+外部サイトへの参照を除く場合は`-H`オプションはつけない. 
+
+```
+wget -rkp -linf -H [target site domain]
+```
+
+## 保存済みサイト一覧
+
+### www.geocities.co.jp
 
 * スネ夫主義宣言: http://www.geocities.co.jp/SiliconValley-Bay/4104/suneo/suneo.htm
 * ドラ・パターン: http://www.geocities.co.jp/AnimeComic-White/4339/doratop.html
