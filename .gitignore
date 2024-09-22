@@ -7,3 +7,7 @@ sky.geocities.jp/
 hen-dora.com/
 
 .vscode/
+
+# output file
+*.csv
+*.tsv
