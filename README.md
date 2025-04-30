@@ -92,3 +92,11 @@ wget -rkp -linf -H [target site domain]
 
 #### sky.geocities.jp/
 * えっ: http://sky.geocities.jp/motttey1234/
+
+#### web.fc2.com
+* [記憶のかさブタ](http://kiokunokasabuta.web.fc2.com/k-index.html)
+* [雑多園](https://2lanewhitetop.web.fc2.com/index.html)
+
+#### fc2web.com
+* [真佐美　ジュンのドラえもん時代](http://mcsammy.fc2web.com/dr.html)
+* [藤子道](http://fujikomichi.fc2web.com/)
