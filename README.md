@@ -100,3 +100,12 @@ wget -rkp -linf -H [target site domain]
 #### fc2web.com
 * [真佐美　ジュンのドラえもん時代](http://mcsammy.fc2web.com/dr.html)
 * [藤子道](http://fujikomichi.fc2web.com/)
+* [ドラえもん同盟](http://dor1.fc2web.com/)
+* [SS (ドラえもん　のび太の聖杯戦争)](http://magarinin.fc2web.com/)
+* [ドラえもん　のび太と　葉鍵の国](http://renqanoh.fc2web.com/dora_hakagi.htm)
+* [外道大学](http://jinguji.fc2web.com/)
+* [ドラポンゲ](http://yabet.fc2web.com/index.html)
+* [バカ集合](http://2chart.fc2web.com/)
+* [個人的png保管庫](http://ugar.fc2web.com/)
+* [岡ちゃんのホームページ](http://o1.fc2web.com/)
+* [こざるーむ遊び場ガイド](http://kozaru98.fc2web.com/)
