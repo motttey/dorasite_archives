@@ -109,3 +109,7 @@ wget -rkp -linf -H [target site domain]
 * [個人的png保管庫](http://ugar.fc2web.com/)
 * [岡ちゃんのホームページ](http://o1.fc2web.com/)
 * [こざるーむ遊び場ガイド](http://kozaru98.fc2web.com/)
+* [萌えクロニクル](http://moechronicle.fc2web.com//)
+* [カラクリ堂](http://daiki1020.fc2web.com/)
+* [やま'ず](http://dorapuro.fc2web.com/)
+* [うちのぺいじ。](http://hsk.fc2web.com/)
