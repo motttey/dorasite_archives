@@ -104,7 +104,7 @@ wget -rkp -linf -H [target site domain]
 * [SS (ドラえもん　のび太の聖杯戦争)](http://magarinin.fc2web.com/)
 * [ドラえもん　のび太と　葉鍵の国](http://renqanoh.fc2web.com/dora_hakagi.htm)
 * [外道大学](http://jinguji.fc2web.com/)
-* [ドラポンゲ](http://yabet.fc2web.com/index.html)
+* [ドラポンゲ](http://yabet.fc2web.com/)
 * [バカ集合](http://2chart.fc2web.com/)
 * [個人的png保管庫](http://ugar.fc2web.com/)
 * [岡ちゃんのホームページ](http://o1.fc2web.com/)
@@ -113,3 +113,4 @@ wget -rkp -linf -H [target site domain]
 * [カラクリ堂](http://daiki1020.fc2web.com/)
 * [やま'ず](http://dorapuro.fc2web.com/)
 * [うちのぺいじ。](http://hsk.fc2web.com/)
+* [キテレツ大百科　『表　野　町』](http://usi.fc2web.com/)
